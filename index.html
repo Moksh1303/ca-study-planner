@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#244a3b"><meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="CA Study">
+<link rel="manifest" href="manifest.json"><link rel="apple-touch-icon" href="icon.svg">
+<title>Her CA Study Planner</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+ <div><div class="eyebrow">THE JANUARY 2027 PLAN</div><h1>One day at a time<span> ✦</span></h1><p id="todayLine">Your study space</p></div>
+ <button class="icon-btn" id="backupBtn" aria-label="Backup">↥</button>
+</header>
+<main id="app">
+<section id="dashboard" class="page active">
+ <div class="count-grid">
+  <article class="count-card"><small>AUDIT EXAM</small><strong id="auditDays">--</strong><span>days to go · 10 Jan</span></article>
+  <article class="count-card alt"><small>FM + SM EXAM</small><strong id="fmDays">--</strong><span>days to go · 12 Jan</span></article>
+ </div>
+ <div class="section-head"><div><small class="eyebrow">YOUR MOMENTUM</small><h2>Progress overview</h2></div><span class="pill" id="overallPct">0% complete</span></div>
+ <div class="progress-card" id="subjectProgress"></div>
+ <div class="section-head"><div><small class="eyebrow">TODAY</small><h2 id="todayTitle">Today's focus</h2></div><span class="pill" id="todayDate"></span></div>
+ <div id="todayTasks" class="task-list"></div>
+ <div class="digital-card"><div><small>DAILY NON-NEGOTIABLE</small><h3>Digital marketing</h3><p>One focused hour, every day.</p></div><button class="primary" onclick="startQuickTimer('Digital Marketing')">Start 1-hour session</button></div>
+ <p class="quote">Progress is built by showing up, especially on ordinary days.</p>
+</section>
+<section id="plan" class="page">
+ <div class="page-heading"><small class="eyebrow">YOUR ROADMAP</small><h2>Study plan</h2><p>First learning, second revision, third revision and exam days.</p></div>
+ <div class="filter-row"><input id="datePicker" type="date"><select id="monthFilter"><option value="all">All months</option><option value="2026-11">November</option><option value="2026-12">December</option><option value="2027-01">January</option></select></div>
+ <div id="planList" class="task-list"></div>
+</section>
+<section id="progress" class="page">
+ <div class="page-heading"><small class="eyebrow">SYLLABUS CHECKLIST</small><h2>Chapter progress</h2><p>Mark a chapter complete only when you have actually finished it.</p></div>
+ <div class="subject-tabs"><button class="tab selected" data-sub="Audit">Audit</button><button class="tab" data-sub="FM">FM</button><button class="tab" data-sub="SM">SM</button></div>
+ <div class="progress-card" id="chapterSummary"></div>
+ <div id="chapterList" class="chapter-list"></div>
+</section>
+<section id="timer" class="page">
+ <div class="page-heading"><small class="eyebrow">FOCUS MODE</small><h2>Study timer</h2><p>Choose a subject, start your session and let the minutes add up.</p></div>
+ <div class="timer-card">
+  <label for="timerSubject">Studying</label><select id="timerSubject"><option>Audit</option><option>FM</option><option>SM</option><option>Digital Marketing</option></select>
+  <div class="clock" id="clock">00:00:00</div><div id="timerState" class="timer-state">Ready when you are</div>
+  <div class="timer-actions"><button class="primary" id="timerStart">Start</button><button class="secondary" id="timerStop" disabled>Finish session</button></div>
+  <p class="timer-note">The timer keeps running if you switch tabs or lock your phone. Reopen the page to see the updated time.</p>
+ </div>
+ <div class="section-head"><div><small class="eyebrow">YOUR RECORD</small><h2>Recent sessions</h2></div></div>
+ <div id="sessionList" class="task-list"></div>
+</section>
+<section id="settings" class="page">
+ <div class="page-heading"><small class="eyebrow">YOUR SPACE</small><h2>Settings & backup</h2><p>Your progress is saved on this iPhone in this browser.</p></div>
+ <div class="settings-card"><h3>Protect your progress</h3><p>Export a backup regularly. If Safari website data is cleared, local progress can be lost.</p><div class="button-row"><button class="primary" id="exportBtn">Export backup</button><label class="secondary file-label">Import backup<input type="file" id="importFile" accept="application/json"></label></div></div>
+ <div class="settings-card"><h3>Reset planner</h3><p>Only use this if you want to erase all progress and timer records on this device.</p><button class="danger" id="resetBtn">Reset all progress</button></div>
+ <div class="settings-card"><h3>Install on iPhone</h3><p>Open this website in Safari, tap the Share icon, then choose <b>Add to Home Screen</b>. It will open like an app.</p></div>
+ <p class="fineprint">No subscription, no ads, no account and no paid backend. This is a personal, device-local planner.</p>
+</section>
+</main>
+<nav class="bottom-nav">
+ <button class="nav active" data-page="dashboard"><span>⌂</span>Home</button>
+ <button class="nav" data-page="plan"><span>▦</span>Plan</button>
+ <button class="nav" data-page="progress"><span>◉</span>Progress</button>
+ <button class="nav" data-page="timer"><span>◷</span>Timer</button>
+ <button class="nav" data-page="settings"><span>☰</span>More</button>
+</nav>
+<div id="toast" class="toast"></div>
+<script src="app.js"></script>
+</body></html>
