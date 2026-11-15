@@ -4,7 +4,7 @@
   "fmSmExam": "2027-01-12",
   "schedule": [
     {
-      "date": "2026-11-15T00:00:00",
+      "date": "2026-11-15",
       "day": "Sunday",
       "phase": "First learning + ongoing recall",
       "Audit": "NATURE AND OBJECTIVE",
@@ -14,7 +14,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-16T00:00:00",
+      "date": "2026-11-16",
       "day": "Monday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT PLANNING",
@@ -24,7 +24,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-17T00:00:00",
+      "date": "2026-11-17",
       "day": "Tuesday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT DOCUMENTATION",
@@ -34,7 +34,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-18T00:00:00",
+      "date": "2026-11-18",
       "day": "Wednesday",
       "phase": "First learning + ongoing recall",
       "Audit": "",
@@ -44,7 +44,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-19T00:00:00",
+      "date": "2026-11-19",
       "day": "Thursday",
       "phase": "First learning + ongoing recall",
       "Audit": "TEST",
@@ -54,7 +54,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-20T00:00:00",
+      "date": "2026-11-20",
       "day": "Friday",
       "phase": "First learning + ongoing recall",
       "Audit": "RISK ASSESSMENT",
@@ -64,7 +64,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-21T00:00:00",
+      "date": "2026-11-21",
       "day": "Saturday",
       "phase": "First learning + ongoing recall",
       "Audit": "RISK ASSESSMENT",
@@ -74,7 +74,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-22T00:00:00",
+      "date": "2026-11-22",
       "day": "Sunday",
       "phase": "First learning + ongoing recall",
       "Audit": "",
@@ -84,7 +84,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-23T00:00:00",
+      "date": "2026-11-23",
       "day": "Monday",
       "phase": "First learning + ongoing recall",
       "Audit": "RISK ASSESSMENT",
@@ -94,7 +94,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-24T00:00:00",
+      "date": "2026-11-24",
       "day": "Tuesday",
       "phase": "First learning + ongoing recall",
       "Audit": "RISK ASSESSMENT",
@@ -104,7 +104,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-25T00:00:00",
+      "date": "2026-11-25",
       "day": "Wednesday",
       "phase": "First learning + ongoing recall",
       "Audit": "ETHICS AND TERMS OF ENGG.",
@@ -114,7 +114,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-26T00:00:00",
+      "date": "2026-11-26",
       "day": "Thursday",
       "phase": "First learning + ongoing recall",
       "Audit": "",
@@ -124,7 +124,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-27T00:00:00",
+      "date": "2026-11-27",
       "day": "Friday",
       "phase": "First learning + ongoing recall",
       "Audit": "TEST",
@@ -134,7 +134,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-28T00:00:00",
+      "date": "2026-11-28",
       "day": "Saturday",
       "phase": "First learning + ongoing recall",
       "Audit": "COMPLETION AND REVIEW",
@@ -144,7 +144,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-29T00:00:00",
+      "date": "2026-11-29",
       "day": "Sunday",
       "phase": "First learning + ongoing recall",
       "Audit": "COMPLETION AND REVIEW",
@@ -154,7 +154,7 @@
       "digital": true
     },
     {
-      "date": "2026-11-30T00:00:00",
+      "date": "2026-11-30",
       "day": "Monday",
       "phase": "First learning + ongoing recall",
       "Audit": "",
@@ -164,7 +164,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-01T00:00:00",
+      "date": "2026-12-01",
       "day": "Tuesday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT REPORT",
@@ -174,7 +174,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-02T00:00:00",
+      "date": "2026-12-02",
       "day": "Wednesday",
       "phase": "First learning + ongoing recall",
       "Audit": "",
@@ -184,7 +184,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-03T00:00:00",
+      "date": "2026-12-03",
       "day": "Thursday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT REPORT",
@@ -194,7 +194,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-04T00:00:00",
+      "date": "2026-12-04",
       "day": "Friday",
       "phase": "First learning + ongoing recall",
       "Audit": "TEST",
@@ -204,7 +204,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-05T00:00:00",
+      "date": "2026-12-05",
       "day": "Saturday",
       "phase": "First learning + ongoing recall",
       "Audit": "",
@@ -214,7 +214,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-06T00:00:00",
+      "date": "2026-12-06",
       "day": "Sunday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT EVIDENCE",
@@ -224,7 +224,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-07T00:00:00",
+      "date": "2026-12-07",
       "day": "Monday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT EVIDENCE",
@@ -234,7 +234,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-08T00:00:00",
+      "date": "2026-12-08",
       "day": "Tuesday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT EVIDENCE",
@@ -244,7 +244,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-09T00:00:00",
+      "date": "2026-12-09",
       "day": "Wednesday",
       "phase": "First learning + ongoing recall",
       "Audit": "",
@@ -254,7 +254,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-10T00:00:00",
+      "date": "2026-12-10",
       "day": "Thursday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT EVIDENCE",
@@ -264,7 +264,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-11T00:00:00",
+      "date": "2026-12-11",
       "day": "Friday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT OF BANKS",
@@ -274,7 +274,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-12T00:00:00",
+      "date": "2026-12-12",
       "day": "Saturday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT OF BANKS",
@@ -284,7 +284,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-13T00:00:00",
+      "date": "2026-12-13",
       "day": "Sunday",
       "phase": "First learning + ongoing recall",
       "Audit": "",
@@ -294,7 +294,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-14T00:00:00",
+      "date": "2026-12-14",
       "day": "Monday",
       "phase": "First learning + ongoing recall",
       "Audit": "TEST",
@@ -304,7 +304,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-15T00:00:00",
+      "date": "2026-12-15",
       "day": "Tuesday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT OF FS",
@@ -314,7 +314,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-16T00:00:00",
+      "date": "2026-12-16",
       "day": "Wednesday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT OF FS",
@@ -324,7 +324,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-17T00:00:00",
+      "date": "2026-12-17",
       "day": "Thursday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT OF ENTITIES",
@@ -334,7 +334,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-18T00:00:00",
+      "date": "2026-12-18",
       "day": "Friday",
       "phase": "First learning + ongoing recall",
       "Audit": "AUDIT OF ENTITIES",
@@ -344,7 +344,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-19T00:00:00",
+      "date": "2026-12-19",
       "day": "Saturday",
       "phase": "Diagnostic sample papers",
       "Audit": "Timed sample paper",
@@ -354,7 +354,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-20T00:00:00",
+      "date": "2026-12-20",
       "day": "Sunday",
       "phase": "Diagnostic sample papers",
       "Audit": "Paper analysis and error log",
@@ -364,7 +364,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-21T00:00:00",
+      "date": "2026-12-21",
       "day": "Monday",
       "phase": "Diagnostic analysis",
       "Audit": "",
@@ -374,7 +374,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-22T00:00:00",
+      "date": "2026-12-22",
       "day": "Tuesday",
       "phase": "Targeted revision",
       "Audit": "Nature and Objective",
@@ -384,7 +384,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-23T00:00:00",
+      "date": "2026-12-23",
       "day": "Wednesday",
       "phase": "Targeted revision",
       "Audit": "Audit Planning",
@@ -394,7 +394,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-24T00:00:00",
+      "date": "2026-12-24",
       "day": "Thursday",
       "phase": "Targeted revision",
       "Audit": "Audit Documentation",
@@ -404,7 +404,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-25T00:00:00",
+      "date": "2026-12-25",
       "day": "Friday",
       "phase": "Targeted revision",
       "Audit": "",
@@ -414,7 +414,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-26T00:00:00",
+      "date": "2026-12-26",
       "day": "Saturday",
       "phase": "Targeted revision",
       "Audit": "Risk Assessment",
@@ -424,7 +424,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-27T00:00:00",
+      "date": "2026-12-27",
       "day": "Sunday",
       "phase": "Targeted revision",
       "Audit": "Risk Assessment",
@@ -434,7 +434,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-28T00:00:00",
+      "date": "2026-12-28",
       "day": "Monday",
       "phase": "Targeted revision",
       "Audit": "Ethics and Terms of Engagement",
@@ -444,7 +444,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-29T00:00:00",
+      "date": "2026-12-29",
       "day": "Tuesday",
       "phase": "Targeted revision",
       "Audit": "Completion and Review",
@@ -454,7 +454,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-30T00:00:00",
+      "date": "2026-12-30",
       "day": "Wednesday",
       "phase": "Targeted revision",
       "Audit": "Audit Report",
@@ -464,7 +464,7 @@
       "digital": true
     },
     {
-      "date": "2026-12-31T00:00:00",
+      "date": "2026-12-31",
       "day": "Thursday",
       "phase": "Targeted revision",
       "Audit": "Audit Evidence",
@@ -474,7 +474,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-01T00:00:00",
+      "date": "2027-01-01",
       "day": "Friday",
       "phase": "Targeted revision",
       "Audit": "",
@@ -484,7 +484,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-02T00:00:00",
+      "date": "2027-01-02",
       "day": "Saturday",
       "phase": "Targeted revision",
       "Audit": "Audit Evidence",
@@ -494,7 +494,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-03T00:00:00",
+      "date": "2027-01-03",
       "day": "Sunday",
       "phase": "Targeted revision",
       "Audit": "Audit of Banks",
@@ -504,7 +504,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-04T00:00:00",
+      "date": "2027-01-04",
       "day": "Monday",
       "phase": "Targeted revision",
       "Audit": "Audit of FS",
@@ -514,7 +514,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-05T00:00:00",
+      "date": "2027-01-05",
       "day": "Tuesday",
       "phase": "Targeted revision",
       "Audit": "Audit of Entities",
@@ -524,7 +524,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-06T00:00:00",
+      "date": "2027-01-06",
       "day": "Wednesday",
       "phase": "Targeted revision",
       "Audit": "Weak-area repair from Audit diagnostic",
@@ -534,7 +534,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-07T00:00:00",
+      "date": "2027-01-07",
       "day": "Thursday",
       "phase": "Full mock + analysis",
       "Audit": "",
@@ -544,7 +544,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-08T00:00:00",
+      "date": "2027-01-08",
       "day": "Friday",
       "phase": "Full mock + analysis",
       "Audit": "Full timed mock + Error-log correction + weak areas",
@@ -554,7 +554,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-09T00:00:00",
+      "date": "2027-01-09",
       "day": "Saturday",
       "phase": "Final consolidation",
       "Audit": "Standards, procedures, high-error areas + Light question practice + rest",
@@ -564,7 +564,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-10T00:00:00",
+      "date": "2027-01-10",
       "day": "Sunday",
       "phase": "EXAM DAY",
       "Audit": "Audit examination",
@@ -574,7 +574,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-11T00:00:00",
+      "date": "2027-01-11",
       "day": "Monday",
       "phase": "Final consolidation",
       "Audit": "",
@@ -584,7 +584,7 @@
       "digital": true
     },
     {
-      "date": "2027-01-12T00:00:00",
+      "date": "2027-01-12",
       "day": "Tuesday",
       "phase": "EXAM DAY",
       "Audit": "",
