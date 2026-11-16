@@ -1,587 +1,203 @@
 {
-  "startDate": "2026-11-15",
+  "startDate": "2026-11-16",
   "auditExam": "2027-01-10",
   "fmSmExam": "2027-01-12",
   "schedule": [
     {
-      "date": "2026-11-15",
-      "day": "Sunday",
-      "phase": "First learning",
-      "Audit": "NATURE AND OBJECTIVE (Day 1 of 1)",
-      "FM": "RATIO ANALYSIS (Day 1 of 3)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
       "date": "2026-11-16",
-      "day": "Monday",
-      "phase": "First learning",
-      "Audit": "",
-      "FM": "RATIO ANALYSIS (Day 2 of 3)",
-      "SM": "INTRO TO SM (Day 1 of 2)",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit documentation",
+      "FM": "Theory (Day 1 of 2)",
+      "SM": "Introduction to SM (Day 1 of 2)",
+      "extra": ""
     },
     {
       "date": "2026-11-17",
-      "day": "Tuesday",
-      "phase": "First learning",
-      "Audit": "",
-      "FM": "RATIO ANALYSIS (Day 3 of 3)",
-      "SM": "INTRO TO SM (Day 2 of 2)",
-      "extra": "",
-      "digital": true
+      "Audit": "Risk Assessment (Day 1 of 4)",
+      "FM": "Theory (Day 2 of 2)",
+      "SM": "Introduction to SM (Day 2 of 2)",
+      "extra": ""
     },
     {
       "date": "2026-11-18",
-      "day": "Wednesday",
-      "phase": "First learning",
-      "Audit": "AUDIT PLANNING (Day 1 of 1)",
-      "FM": "TEST (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Risk Assessment (Day 2 of 4)",
+      "FM": "Test",
+      "SM": "Test",
+      "extra": ""
     },
     {
       "date": "2026-11-19",
-      "day": "Thursday",
-      "phase": "First learning",
-      "Audit": "AUDIT DOCUMENTATION (Day 1 of 1)",
-      "FM": "",
-      "SM": "STRATEGIC CHOICES (Day 1 of 2)",
-      "extra": "",
-      "digital": true
+      "Audit": "Risk Assessment (Day 3 of 4)",
+      "FM": "Cost of Capital (Day 1 of 2)",
+      "SM": "External Analysis (Day 1 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-11-20",
-      "day": "Friday",
-      "phase": "First learning",
-      "Audit": "TEST (Day 1 of 1)",
-      "FM": "",
-      "SM": "STRATEGIC CHOICES (Day 2 of 2)",
-      "extra": "",
-      "digital": true
+      "Audit": "Risk Assessment (Day 4 of 4)",
+      "FM": "Cost of Capital (Day 2 of 2)",
+      "SM": "External Analysis (Day 2 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-11-21",
-      "day": "Saturday",
-      "phase": "First learning",
-      "Audit": "RISK ASSESSMENT (Day 1 of 4)",
-      "FM": "LEVERAGES (Day 1 of 2)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Test",
+      "FM": "Ratios (Day 1 of 2)",
+      "SM": "External Analysis (Day 3 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-11-22",
-      "day": "Sunday",
-      "phase": "First learning",
-      "Audit": "RISK ASSESSMENT (Day 2 of 4)",
-      "FM": "LEVERAGES (Day 2 of 2)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Nature, Scope and Objectives",
+      "FM": "Ratios (Day 2 of 2)",
+      "SM": "External Analysis (Day 4 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-11-23",
-      "day": "Monday",
-      "phase": "First learning",
-      "Audit": "RISK ASSESSMENT (Day 3 of 4)",
-      "FM": "COST OF CAPITAL (Day 1 of 3)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit Planning (Day 1 of 2)",
+      "FM": "Test",
+      "SM": "External Analysis (Day 5 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-11-24",
-      "day": "Tuesday",
-      "phase": "First learning",
-      "Audit": "RISK ASSESSMENT (Day 4 of 4)",
-      "FM": "COST OF CAPITAL (Day 2 of 3)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit Planning (Day 2 of 2)",
+      "FM": "Leverages (Day 1 of 2)",
+      "SM": "Test",
+      "extra": ""
     },
     {
       "date": "2026-11-25",
-      "day": "Wednesday",
-      "phase": "First learning",
-      "Audit": "",
-      "FM": "COST OF CAPITAL (Day 3 of 3)",
-      "SM": "TEST (Day 1 of 1)",
-      "extra": "",
-      "digital": true
+      "Audit": "Test",
+      "FM": "Leverages (Day 2 of 2)",
+      "SM": "Internal Analysis (Day 1 of 4)",
+      "extra": ""
     },
     {
       "date": "2026-11-26",
-      "day": "Thursday",
-      "phase": "First learning",
-      "Audit": "ETHICS AND TERMS OF ENGG. (Day 1 of 1)",
-      "FM": "",
-      "SM": "EXTERNAL ENVIRONMENT (Day 1 of 2)",
-      "extra": "",
-      "digital": true
+      "Audit": "Completion and Review (Day 1 of 2)",
+      "FM": "Capital Structure (Day 1 of 2)",
+      "SM": "Internal Analysis (Day 2 of 4)",
+      "extra": ""
     },
     {
       "date": "2026-11-27",
-      "day": "Friday",
-      "phase": "First learning",
-      "Audit": "TEST (Day 1 of 1)",
-      "FM": "",
-      "SM": "EXTERNAL ENVIRONMENT (Day 2 of 2)",
-      "extra": "",
-      "digital": true
+      "Audit": "Completion and Review (Day 2 of 2)",
+      "FM": "Capital Structure (Day 2 of 2)",
+      "SM": "Internal Analysis (Day 3 of 4)",
+      "extra": ""
     },
     {
       "date": "2026-11-28",
-      "day": "Saturday",
-      "phase": "First learning",
-      "Audit": "COMPLETION AND REVIEW (Day 1 of 2)",
-      "FM": "TEST (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit Report (Day 1 of 2)",
+      "FM": "Test",
+      "SM": "Internal Analysis (Day 4 of 4)",
+      "extra": ""
     },
     {
       "date": "2026-11-29",
-      "day": "Sunday",
-      "phase": "First learning",
-      "Audit": "COMPLETION AND REVIEW (Day 2 of 2)",
-      "FM": "CAPITAL STRUCTURE (Day 1 of 2)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit Report (Day 2 of 2)",
+      "FM": "Dividend Decision (Day 1 of 2)",
+      "SM": "Test",
+      "extra": ""
     },
     {
       "date": "2026-11-30",
-      "day": "Monday",
-      "phase": "First learning",
-      "Audit": "AUDIT REPORT (Day 1 of 2)",
-      "FM": "CAPITAL STRUCTURE (Day 2 of 2)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Test",
+      "FM": "Dividend Decision (Day 2 of 2)",
+      "SM": "Strategic Choices (Day 1 of 6)",
+      "extra": ""
     },
     {
       "date": "2026-12-01",
-      "day": "Tuesday",
-      "phase": "First learning",
-      "Audit": "AUDIT REPORT (Day 2 of 2)",
-      "FM": "TEST (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit Evidence (Day 1 of 4)",
+      "FM": "Investment Decision (Day 1 of 4)",
+      "SM": "Strategic Choices (Day 2 of 6)",
+      "extra": ""
     },
     {
       "date": "2026-12-02",
-      "day": "Wednesday",
-      "phase": "First learning",
-      "Audit": "",
-      "FM": "DIVIDEND DECISION (Day 1 of 2)",
-      "SM": "INTERNAL ENVIRONMENT (Day 1 of 2)",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit Evidence (Day 2 of 4)",
+      "FM": "Investment Decision (Day 2 of 4)",
+      "SM": "Strategic Choices (Day 3 of 6)",
+      "extra": ""
     },
     {
       "date": "2026-12-03",
-      "day": "Thursday",
-      "phase": "First learning",
-      "Audit": "",
-      "FM": "DIVIDEND DECISION (Day 2 of 2)",
-      "SM": "INTERNAL ENVIRONMENT (Day 2 of 2)",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit Evidence (Day 3 of 4)",
+      "FM": "Investment Decision (Day 3 of 4)",
+      "SM": "Strategic Choices (Day 4 of 6)",
+      "extra": ""
     },
     {
       "date": "2026-12-04",
-      "day": "Friday",
-      "phase": "First learning",
-      "Audit": "TEST (Day 1 of 1)",
-      "FM": "TEST (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit Evidence (Day 4 of 4)",
+      "FM": "Investment Decision (Day 4 of 4)",
+      "SM": "Strategic Choices (Day 5 of 6)",
+      "extra": ""
     },
     {
       "date": "2026-12-05",
-      "day": "Saturday",
-      "phase": "First learning",
-      "Audit": "AUDIT EVIDENCE (Day 1 of 4)",
-      "FM": "",
-      "SM": "TEST (Day 1 of 1)",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit of FS (Day 1 of 2)",
+      "FM": "Test",
+      "SM": "Strategic Choices (Day 6 of 6)",
+      "extra": ""
     },
     {
       "date": "2026-12-06",
-      "day": "Sunday",
-      "phase": "First learning",
-      "Audit": "AUDIT EVIDENCE (Day 2 of 4)",
-      "FM": "INVESTMENT DECISION (Day 1 of 4)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit of FS (Day 2 of 2)",
+      "FM": "Working Capital Management (Day 1 of 6)",
+      "SM": "Test",
+      "extra": ""
     },
     {
       "date": "2026-12-07",
-      "day": "Monday",
-      "phase": "First learning",
-      "Audit": "AUDIT EVIDENCE (Day 3 of 4)",
-      "FM": "INVESTMENT DECISION (Day 2 of 4)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Test",
+      "FM": "Working Capital Management (Day 2 of 6)",
+      "SM": "Strategy Implementation (Day 1 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-12-08",
-      "day": "Tuesday",
-      "phase": "First learning",
-      "Audit": "AUDIT EVIDENCE (Day 4 of 4)",
-      "FM": "INVESTMENT DECISION (Day 3 of 4)",
-      "SM": "",
-      "extra": "",
-      "digital": true
+      "Audit": "Ethics and Terms of Engagement",
+      "FM": "Working Capital Management (Day 3 of 6)",
+      "SM": "Strategy Implementation (Day 2 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-12-09",
-      "day": "Wednesday",
-      "phase": "First learning",
-      "Audit": "",
-      "FM": "INVESTMENT DECISION (Day 4 of 4)",
-      "SM": "STRATEGY IMPLEMENTATION (Day 1 of 4)",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit of Banks (Day 1 of 2)",
+      "FM": "Working Capital Management (Day 4 of 6)",
+      "SM": "Strategy Implementation (Day 3 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-12-10",
-      "day": "Thursday",
-      "phase": "First learning",
-      "Audit": "AUDIT OF BANKS (Day 1 of 2)",
-      "FM": "",
-      "SM": "STRATEGY IMPLEMENTATION (Day 2 of 4)",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit of Banks (Day 2 of 2)",
+      "FM": "Working Capital Management (Day 5 of 6)",
+      "SM": "Strategy Implementation (Day 4 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-12-11",
-      "day": "Friday",
-      "phase": "First learning",
-      "Audit": "AUDIT OF BANKS (Day 2 of 2)",
-      "FM": "",
-      "SM": "STRATEGY IMPLEMENTATION (Day 3 of 4)",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit of Entities (Day 1 of 2)",
+      "FM": "Working Capital Management (Day 6 of 6)",
+      "SM": "Strategy Implementation (Day 5 of 5)",
+      "extra": ""
     },
     {
       "date": "2026-12-12",
-      "day": "Saturday",
-      "phase": "First learning",
-      "Audit": "",
-      "FM": "TEST (Day 1 of 1)",
-      "SM": "STRATEGY IMPLEMENTATION (Day 4 of 4)",
-      "extra": "",
-      "digital": true
+      "Audit": "Audit of Entities (Day 2 of 2)",
+      "FM": "Test",
+      "SM": "Test",
+      "extra": ""
     },
     {
       "date": "2026-12-13",
-      "day": "Sunday",
-      "phase": "First learning",
-      "Audit": "TEST (Day 1 of 1)",
-      "FM": "WORKING CAPITAL MANAGEMENT (Day 1 of 4)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-14",
-      "day": "Monday",
-      "phase": "First learning",
-      "Audit": "AUDIT OF FS (Day 1 of 2)",
-      "FM": "WORKING CAPITAL MANAGEMENT (Day 2 of 4)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-15",
-      "day": "Tuesday",
-      "phase": "First learning",
-      "Audit": "AUDIT OF FS (Day 2 of 2)",
-      "FM": "WORKING CAPITAL MANAGEMENT (Day 3 of 4)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-16",
-      "day": "Wednesday",
-      "phase": "First learning",
-      "Audit": "AUDIT OF ENTITIES (Day 1 of 2)",
-      "FM": "WORKING CAPITAL MANAGEMENT (Day 4 of 4)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-17",
-      "day": "Thursday",
-      "phase": "First learning",
-      "Audit": "AUDIT OF ENTITIES (Day 2 of 2)",
-      "FM": "",
-      "SM": "TEST (Day 1 of 1)",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-18",
-      "day": "Friday",
-      "phase": "First learning",
-      "Audit": "",
-      "FM": "TEST (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-19",
-      "day": "Saturday",
-      "phase": "Diagnostic sample papers",
-      "Audit": "AUDIT: Timed diagnostic sample paper",
-      "FM": "FM: Timed diagnostic sample paper",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-20",
-      "day": "Sunday",
-      "phase": "Diagnostic sample papers",
-      "Audit": "AUDIT: Analyse paper, classify every lost mark",
-      "FM": "",
-      "SM": "SM: Timed diagnostic sample paper",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-21",
-      "day": "Monday",
-      "phase": "Diagnostic sample papers",
-      "Audit": "",
-      "FM": "FM: Analyse paper, classify every lost mark",
-      "SM": "SM: Analyse paper, classify every lost mark",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-22",
-      "day": "Tuesday",
-      "phase": "Targeted revision",
-      "Audit": "Nature and Objective (Day 1 of 1)",
-      "FM": "Ratio Analysis (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-23",
-      "day": "Wednesday",
-      "phase": "Targeted revision",
-      "Audit": "Audit Planning (Day 1 of 1)",
-      "FM": "",
-      "SM": "Intro to SM (Day 1 of 1)",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-24",
-      "day": "Thursday",
-      "phase": "Targeted revision",
-      "Audit": "Audit Documentation (Day 1 of 1)",
-      "FM": "Leverages (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-25",
-      "day": "Friday",
-      "phase": "Targeted revision",
-      "Audit": "",
-      "FM": "Cost of Capital (Day 1 of 1)",
-      "SM": "Strategic Choices (Day 1 of 1)",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-26",
-      "day": "Saturday",
-      "phase": "Targeted revision",
-      "Audit": "Risk Assessment (Day 1 of 2)",
-      "FM": "Capital Structure (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-27",
-      "day": "Sunday",
-      "phase": "Targeted revision",
-      "Audit": "Risk Assessment (Day 2 of 2)",
-      "FM": "",
-      "SM": "External Environment (Day 1 of 1)",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-28",
-      "day": "Monday",
-      "phase": "Targeted revision",
-      "Audit": "Ethics and Terms of Engagement (Day 1 of 1)",
-      "FM": "Dividend Decision (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-29",
-      "day": "Tuesday",
-      "phase": "Targeted revision",
-      "Audit": "Completion and Review (Day 1 of 1)",
-      "FM": "",
-      "SM": "Internal Environment (Day 1 of 1)",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-30",
-      "day": "Wednesday",
-      "phase": "Targeted revision",
-      "Audit": "Audit Report (Day 1 of 1)",
-      "FM": "Investment Decision (Day 1 of 2)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2026-12-31",
-      "day": "Thursday",
-      "phase": "Targeted revision",
-      "Audit": "Audit Evidence (Day 1 of 2)",
-      "FM": "Investment Decision (Day 2 of 2)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-01",
-      "day": "Friday",
-      "phase": "Targeted revision",
-      "Audit": "Audit Evidence (Day 2 of 2)",
-      "FM": "",
-      "SM": "Strategy Implementation (Day 1 of 1)",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-02",
-      "day": "Saturday",
-      "phase": "Targeted revision",
-      "Audit": "Audit of Banks (Day 1 of 1)",
-      "FM": "Working Capital Management (Day 1 of 2)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-03",
-      "day": "Sunday",
-      "phase": "Targeted revision",
-      "Audit": "Audit of FS (Day 1 of 1)",
-      "FM": "Working Capital Management (Day 2 of 2)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-04",
-      "day": "Monday",
-      "phase": "Targeted revision",
-      "Audit": "Audit of Entities (Day 1 of 1)",
-      "FM": "",
-      "SM": "SM weak-area repair from diagnostic (Day 1 of 1)",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-05",
-      "day": "Tuesday",
-      "phase": "Targeted revision",
-      "Audit": "Audit weak-area repair from diagnostic (Day 1 of 1)",
-      "FM": "FM weak-area repair from diagnostic (Day 1 of 1)",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-07",
-      "day": "Thursday",
-      "phase": "Final mocks / exams",
-      "Audit": "",
-      "FM": "FM: Full timed mock + detailed review",
-      "SM": "SM: Full timed mock + detailed review",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-08",
-      "day": "Friday",
-      "phase": "Final mocks / exams",
-      "Audit": "Audit: Full timed mock + detailed review",
+      "Audit": "Test",
       "FM": "",
       "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-09",
-      "day": "Saturday",
-      "phase": "Final mocks / exams",
-      "Audit": "Audit: Final recall, error-log repair, light practice",
-      "FM": "",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-10",
-      "day": "Sunday",
-      "phase": "Final mocks / exams",
-      "Audit": "EXAM DAY: Audit",
-      "FM": "",
-      "SM": "",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-11",
-      "day": "Monday",
-      "phase": "Final mocks / exams",
-      "Audit": "",
-      "FM": "FM: Formula recall and weak areas",
-      "SM": "SM: Framework recall and answer writing",
-      "extra": "",
-      "digital": true
-    },
-    {
-      "date": "2027-01-12",
-      "day": "Tuesday",
-      "phase": "Final mocks / exams",
-      "Audit": "",
-      "FM": "EXAM DAY: FM",
-      "SM": "EXAM DAY: SM",
-      "extra": "",
-      "digital": true
+      "extra": ""
     }
   ],
   "chapters": [
@@ -589,139 +205,145 @@
       "id": "audit-1",
       "subject": "Audit",
       "chapter": "Chapter 1",
-      "name": "NATURE AND OBJECTIVE"
+      "name": "Audit documentation"
     },
     {
       "id": "audit-2",
       "subject": "Audit",
       "chapter": "Chapter 2",
-      "name": "AUDIT PLANNING"
+      "name": "Risk Assessment"
     },
     {
       "id": "audit-3",
       "subject": "Audit",
       "chapter": "Chapter 3",
-      "name": "AUDIT DOCUMENTATION"
+      "name": "Nature, Scope and Objectives"
     },
     {
       "id": "audit-4",
       "subject": "Audit",
       "chapter": "Chapter 4",
-      "name": "RISK ASSESSMENT"
+      "name": "Audit Planning"
     },
     {
       "id": "audit-5",
       "subject": "Audit",
       "chapter": "Chapter 5",
-      "name": "ETHICS AND TERMS OF ENGG."
+      "name": "Completion and Review"
     },
     {
       "id": "audit-6",
       "subject": "Audit",
       "chapter": "Chapter 6",
-      "name": "COMPLETION AND REVIEW"
+      "name": "Audit Report"
     },
     {
       "id": "audit-7",
       "subject": "Audit",
       "chapter": "Chapter 7",
-      "name": "AUDIT REPORT"
+      "name": "Audit Evidence"
     },
     {
       "id": "audit-8",
       "subject": "Audit",
       "chapter": "Chapter 8",
-      "name": "AUDIT EVIDENCE"
+      "name": "Audit of FS"
     },
     {
       "id": "audit-9",
       "subject": "Audit",
       "chapter": "Chapter 9",
-      "name": "AUDIT OF BANKS"
+      "name": "Ethics and Terms of Engagement"
     },
     {
       "id": "audit-10",
       "subject": "Audit",
       "chapter": "Chapter 10",
-      "name": "AUDIT OF FS"
+      "name": "Audit of Banks"
     },
     {
       "id": "audit-11",
       "subject": "Audit",
       "chapter": "Chapter 11",
-      "name": "AUDIT OF ENTITIES"
+      "name": "Audit of Entities"
     },
     {
       "id": "fm-1",
       "subject": "FM",
       "chapter": "Chapter 1",
-      "name": "RATIO ANALYSIS"
+      "name": "Theory"
     },
     {
       "id": "fm-2",
       "subject": "FM",
       "chapter": "Chapter 2",
-      "name": "LEVERAGES"
+      "name": "Cost of Capital"
     },
     {
       "id": "fm-3",
       "subject": "FM",
       "chapter": "Chapter 3",
-      "name": "COST OF CAPITAL"
+      "name": "Ratios"
     },
     {
       "id": "fm-4",
       "subject": "FM",
       "chapter": "Chapter 4",
-      "name": "CAPITAL STRUCTURE"
+      "name": "Leverages"
     },
     {
       "id": "fm-5",
       "subject": "FM",
       "chapter": "Chapter 5",
-      "name": "DIVIDEND DECISION"
+      "name": "Capital Structure"
     },
     {
       "id": "fm-6",
       "subject": "FM",
       "chapter": "Chapter 6",
-      "name": "INVESTMENT DECISION"
+      "name": "Dividend Decision"
     },
     {
       "id": "fm-7",
       "subject": "FM",
       "chapter": "Chapter 7",
-      "name": "WORKING CAPITAL MANAGEMENT"
+      "name": "Investment Decision"
+    },
+    {
+      "id": "fm-8",
+      "subject": "FM",
+      "chapter": "Chapter 8",
+      "name": "Working Capital Management"
     },
     {
       "id": "sm-1",
       "subject": "SM",
       "chapter": "Chapter 1",
-      "name": "INTRO TO SM"
+      "name": "Introduction to SM"
     },
     {
       "id": "sm-2",
       "subject": "SM",
       "chapter": "Chapter 2",
-      "name": "STRATEGIC CHOICES"
+      "name": "External Analysis"
     },
     {
       "id": "sm-3",
       "subject": "SM",
       "chapter": "Chapter 3",
-      "name": "EXTERNAL ENVIRONMENT"
+      "name": "Internal Analysis"
     },
     {
       "id": "sm-4",
       "subject": "SM",
       "chapter": "Chapter 4",
-      "name": "INTERNAL ENVIRONMENT"
+      "name": "Strategic Choices"
     },
     {
       "id": "sm-5",
       "subject": "SM",
       "chapter": "Chapter 5",
-      "name": "STRATEGY IMPLEMENTATION"
+      "name": "Strategy Implementation"
     }
   ]
 }
