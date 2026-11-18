@@ -1,199 +1,199 @@
 {
-  "startDate": "2026-11-16",
+  "startDate": "2026-11-19",
   "auditExam": "2027-01-10",
   "fmSmExam": "2027-01-12",
   "schedule": [
     {
-      "date": "2026-11-16",
-      "Audit": "Audit documentation",
+      "date": "2026-11-19",
+      "Audit": "Audit Documentation",
       "FM": "Theory (Day 1 of 2)",
       "SM": "Introduction to SM (Day 1 of 2)",
       "extra": ""
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-20",
       "Audit": "Risk Assessment (Day 1 of 4)",
       "FM": "Theory (Day 2 of 2)",
       "SM": "Introduction to SM (Day 2 of 2)",
       "extra": ""
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-21",
       "Audit": "Risk Assessment (Day 2 of 4)",
       "FM": "Test",
       "SM": "Test",
       "extra": ""
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-22",
       "Audit": "Risk Assessment (Day 3 of 4)",
-      "FM": "Cost of Capital (Day 1 of 2)",
+      "FM": "Cost of Capital (Day 1 of 3)",
       "SM": "External Analysis (Day 1 of 5)",
       "extra": ""
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "Audit": "Risk Assessment (Day 4 of 4)",
-      "FM": "Cost of Capital (Day 2 of 2)",
+      "FM": "Cost of Capital (Day 2 of 3)",
       "SM": "External Analysis (Day 2 of 5)",
       "extra": ""
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-24",
       "Audit": "Test",
-      "FM": "Ratios (Day 1 of 2)",
+      "FM": "Cost of Capital (Day 3 of 3)",
       "SM": "External Analysis (Day 3 of 5)",
       "extra": ""
     },
     {
-      "date": "2026-11-22",
+      "date": "2026-11-25",
       "Audit": "Nature, Scope and Objectives",
-      "FM": "Ratios (Day 2 of 2)",
+      "FM": "Ratios (Day 1 of 2)",
       "SM": "External Analysis (Day 4 of 5)",
       "extra": ""
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-26",
       "Audit": "Audit Planning (Day 1 of 2)",
-      "FM": "Test",
+      "FM": "Ratios (Day 2 of 2)",
       "SM": "External Analysis (Day 5 of 5)",
       "extra": ""
     },
     {
-      "date": "2026-11-24",
-      "Audit": "Audit Planning (Day 2 of 2)",
-      "FM": "Leverages (Day 1 of 2)",
-      "SM": "Test",
-      "extra": ""
-    },
-    {
-      "date": "2026-11-25",
-      "Audit": "Test",
-      "FM": "Leverages (Day 2 of 2)",
-      "SM": "Internal Analysis (Day 1 of 4)",
-      "extra": ""
-    },
-    {
-      "date": "2026-11-26",
-      "Audit": "Completion and Review (Day 1 of 2)",
-      "FM": "Capital Structure (Day 1 of 2)",
-      "SM": "Internal Analysis (Day 2 of 4)",
-      "extra": ""
-    },
-    {
       "date": "2026-11-27",
-      "Audit": "Completion and Review (Day 2 of 2)",
-      "FM": "Capital Structure (Day 2 of 2)",
-      "SM": "Internal Analysis (Day 3 of 4)",
+      "Audit": "Audit Planning (Day 2 of 2)",
+      "FM": "Test",
+      "SM": "Test",
       "extra": ""
     },
     {
       "date": "2026-11-28",
-      "Audit": "Audit Report (Day 1 of 2)",
-      "FM": "Test",
-      "SM": "Internal Analysis (Day 4 of 4)",
+      "Audit": "Test",
+      "FM": "Leverages (Day 1 of 3)",
+      "SM": "Internal Analysis (Day 1 of 4)",
       "extra": ""
     },
     {
       "date": "2026-11-29",
-      "Audit": "Audit Report (Day 2 of 2)",
-      "FM": "Dividend Decision (Day 1 of 2)",
-      "SM": "Test",
+      "Audit": "Completion and Review (Day 1 of 2)",
+      "FM": "Leverages (Day 2 of 3)",
+      "SM": "Internal Analysis (Day 2 of 4)",
       "extra": ""
     },
     {
       "date": "2026-11-30",
-      "Audit": "Test",
-      "FM": "Dividend Decision (Day 2 of 2)",
-      "SM": "Strategic Choices (Day 1 of 6)",
+      "Audit": "Completion and Review (Day 2 of 2)",
+      "FM": "Leverages (Day 3 of 3)",
+      "SM": "Internal Analysis (Day 3 of 4)",
       "extra": ""
     },
     {
       "date": "2026-12-01",
-      "Audit": "Audit Evidence (Day 1 of 4)",
-      "FM": "Investment Decision (Day 1 of 4)",
-      "SM": "Strategic Choices (Day 2 of 6)",
+      "Audit": "Audit Report (Day 1 of 2)",
+      "FM": "Capital Structure",
+      "SM": "Internal Analysis (Day 4 of 4)",
       "extra": ""
     },
     {
       "date": "2026-12-02",
-      "Audit": "Audit Evidence (Day 2 of 4)",
-      "FM": "Investment Decision (Day 2 of 4)",
-      "SM": "Strategic Choices (Day 3 of 6)",
-      "extra": ""
-    },
-    {
-      "date": "2026-12-03",
-      "Audit": "Audit Evidence (Day 3 of 4)",
-      "FM": "Investment Decision (Day 3 of 4)",
-      "SM": "Strategic Choices (Day 4 of 6)",
-      "extra": ""
-    },
-    {
-      "date": "2026-12-04",
-      "Audit": "Audit Evidence (Day 4 of 4)",
-      "FM": "Investment Decision (Day 4 of 4)",
-      "SM": "Strategic Choices (Day 5 of 6)",
-      "extra": ""
-    },
-    {
-      "date": "2026-12-05",
-      "Audit": "Audit of FS (Day 1 of 2)",
+      "Audit": "Audit Report (Day 2 of 2)",
       "FM": "Test",
-      "SM": "Strategic Choices (Day 6 of 6)",
-      "extra": ""
-    },
-    {
-      "date": "2026-12-06",
-      "Audit": "Audit of FS (Day 2 of 2)",
-      "FM": "Working Capital Management (Day 1 of 6)",
       "SM": "Test",
       "extra": ""
     },
     {
-      "date": "2026-12-07",
+      "date": "2026-12-03",
       "Audit": "Test",
-      "FM": "Working Capital Management (Day 2 of 6)",
-      "SM": "Strategy Implementation (Day 1 of 5)",
+      "FM": "Dividend Decision (Day 1 of 2)",
+      "SM": "Strategic Choices (Day 1 of 6)",
+      "extra": ""
+    },
+    {
+      "date": "2026-12-04",
+      "Audit": "Audit Evidence (Day 1 of 4)",
+      "FM": "Dividend Decision (Day 2 of 2)",
+      "SM": "Strategic Choices (Day 2 of 6)",
+      "extra": ""
+    },
+    {
+      "date": "2026-12-05",
+      "Audit": "Audit Evidence (Day 2 of 4)",
+      "FM": "Investment Decision (Day 1 of 4)",
+      "SM": "Strategic Choices (Day 3 of 6)",
+      "extra": ""
+    },
+    {
+      "date": "2026-12-06",
+      "Audit": "Audit Evidence (Day 3 of 4)",
+      "FM": "Investment Decision (Day 2 of 4)",
+      "SM": "Strategic Choices (Day 4 of 6)",
+      "extra": ""
+    },
+    {
+      "date": "2026-12-07",
+      "Audit": "Audit Evidence (Day 4 of 4)",
+      "FM": "Investment Decision (Day 3 of 4)",
+      "SM": "Strategic Choices (Day 5 of 6)",
       "extra": ""
     },
     {
       "date": "2026-12-08",
-      "Audit": "Ethics and Terms of Engagement",
-      "FM": "Working Capital Management (Day 3 of 6)",
-      "SM": "Strategy Implementation (Day 2 of 5)",
+      "Audit": "Audit of FS (Day 1 of 2)",
+      "FM": "Investment Decision (Day 4 of 4)",
+      "SM": "Strategic Choices (Day 6 of 6)",
       "extra": ""
     },
     {
       "date": "2026-12-09",
-      "Audit": "Audit of Banks (Day 1 of 2)",
-      "FM": "Working Capital Management (Day 4 of 6)",
-      "SM": "Strategy Implementation (Day 3 of 5)",
+      "Audit": "Audit of FS (Day 2 of 2)",
+      "FM": "Test",
+      "SM": "Test",
       "extra": ""
     },
     {
       "date": "2026-12-10",
-      "Audit": "Audit of Banks (Day 2 of 2)",
-      "FM": "Working Capital Management (Day 5 of 6)",
-      "SM": "Strategy Implementation (Day 4 of 5)",
+      "Audit": "Test",
+      "FM": "Working Capital Management (Day 1 of 5)",
+      "SM": "Strategy Implementation (Day 1 of 5)",
       "extra": ""
     },
     {
       "date": "2026-12-11",
-      "Audit": "Audit of Entities (Day 1 of 2)",
-      "FM": "Working Capital Management (Day 6 of 6)",
-      "SM": "Strategy Implementation (Day 5 of 5)",
+      "Audit": "Ethics and Terms of Engagement",
+      "FM": "Working Capital Management (Day 2 of 5)",
+      "SM": "Strategy Implementation (Day 2 of 5)",
       "extra": ""
     },
     {
       "date": "2026-12-12",
+      "Audit": "Audit of Banks (Day 1 of 2)",
+      "FM": "Working Capital Management (Day 3 of 5)",
+      "SM": "Strategy Implementation (Day 3 of 5)",
+      "extra": ""
+    },
+    {
+      "date": "2026-12-13",
+      "Audit": "Audit of Banks (Day 2 of 2)",
+      "FM": "Working Capital Management (Day 4 of 5)",
+      "SM": "Strategy Implementation (Day 4 of 5)",
+      "extra": ""
+    },
+    {
+      "date": "2026-12-14",
+      "Audit": "Audit of Entities (Day 1 of 2)",
+      "FM": "Working Capital Management (Day 5 of 5)",
+      "SM": "Strategy Implementation (Day 5 of 5)",
+      "extra": ""
+    },
+    {
+      "date": "2026-12-15",
       "Audit": "Audit of Entities (Day 2 of 2)",
       "FM": "Test",
       "SM": "Test",
       "extra": ""
     },
     {
-      "date": "2026-12-13",
+      "date": "2026-12-16",
       "Audit": "Test",
       "FM": "",
       "SM": "",
@@ -205,7 +205,7 @@
       "id": "audit-1",
       "subject": "Audit",
       "chapter": "Chapter 1",
-      "name": "Audit documentation"
+      "name": "Audit Documentation"
     },
     {
       "id": "audit-2",
